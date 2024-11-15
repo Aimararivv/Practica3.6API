@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iu4RwWdYLpg=",
+  "dgSpecHash": "Vq54Y+BY7fo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\NOPUDEACTUGIT-master\\libreriaXAGFRRR\\libreriaXAGFRRR.csproj",
+  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\NUEVOP\\libreriaXAGFRRR\\libreriaXAGFRRR.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuario\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
