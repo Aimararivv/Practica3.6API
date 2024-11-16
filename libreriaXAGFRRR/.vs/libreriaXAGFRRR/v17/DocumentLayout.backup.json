@@ -3,36 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\NUEVOP\\libreriaXAGFRRR\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F4494D6C-77DE-49EF-842E-56D3419C8175}|libreriaXAGFRRR.csproj|c:\\users\\usuario\\desktop\\nuevop\\libreriaxagfrrr\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4494D6C-77DE-49EF-842E-56D3419C8175}|libreriaXAGFRRR.csproj|solutionrelative:controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F4494D6C-77DE-49EF-842E-56D3419C8175}|libreriaXAGFRRR.csproj|c:\\users\\usuario\\desktop\\nuevop\\libreriaxagfrrr\\data\\viewmodels\\publishervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4494D6C-77DE-49EF-842E-56D3419C8175}|libreriaXAGFRRR.csproj|solutionrelative:data\\viewmodels\\publishervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4494D6C-77DE-49EF-842E-56D3419C8175}|libreriaXAGFRRR.csproj|c:\\users\\usuario\\desktop\\nuevop\\libreriaxagfrrr\\data\\services\\authorsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4494D6C-77DE-49EF-842E-56D3419C8175}|libreriaXAGFRRR.csproj|solutionrelative:data\\services\\authorsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F4494D6C-77DE-49EF-842E-56D3419C8175}|libreriaXAGFRRR.csproj|c:\\users\\usuario\\desktop\\nuevop\\libreriaxagfrrr\\data\\services\\publishersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4494D6C-77DE-49EF-842E-56D3419C8175}|libreriaXAGFRRR.csproj|solutionrelative:data\\services\\publishersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4494D6C-77DE-49EF-842E-56D3419C8175}|libreriaXAGFRRR.csproj|c:\\users\\usuario\\desktop\\nuevop\\libreriaxagfrrr\\data\\viewmodels\\authorvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4494D6C-77DE-49EF-842E-56D3419C8175}|libreriaXAGFRRR.csproj|solutionrelative:data\\viewmodels\\authorvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F4494D6C-77DE-49EF-842E-56D3419C8175}|libreriaXAGFRRR.csproj|c:\\users\\usuario\\desktop\\nuevop\\libreriaxagfrrr\\data\\services\\booksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4494D6C-77DE-49EF-842E-56D3419C8175}|libreriaXAGFRRR.csproj|solutionrelative:data\\services\\booksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F4494D6C-77DE-49EF-842E-56D3419C8175}|libreriaXAGFRRR.csproj|c:\\users\\usuario\\desktop\\nuevop\\libreriaxagfrrr\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4494D6C-77DE-49EF-842E-56D3419C8175}|libreriaXAGFRRR.csproj|solutionrelative:controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F4494D6C-77DE-49EF-842E-56D3419C8175}|libreriaXAGFRRR.csproj|c:\\users\\usuario\\desktop\\nuevop\\libreriaxagfrrr\\data\\appdbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4494D6C-77DE-49EF-842E-56D3419C8175}|libreriaXAGFRRR.csproj|solutionrelative:data\\appdbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F4494D6C-77DE-49EF-842E-56D3419C8175}|libreriaXAGFRRR.csproj|c:\\users\\usuario\\desktop\\nuevop\\libreriaxagfrrr\\data\\models\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4494D6C-77DE-49EF-842E-56D3419C8175}|libreriaXAGFRRR.csproj|solutionrelative:data\\models\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F4494D6C-77DE-49EF-842E-56D3419C8175}|libreriaXAGFRRR.csproj|c:\\users\\usuario\\desktop\\nuevop\\libreriaxagfrrr\\data\\viewmodels\\bookvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4494D6C-77DE-49EF-842E-56D3419C8175}|libreriaXAGFRRR.csproj|solutionrelative:data\\viewmodels\\bookvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F4494D6C-77DE-49EF-842E-56D3419C8175}|libreriaXAGFRRR.csproj|c:\\users\\usuario\\desktop\\nuevop\\libreriaxagfrrr\\controllers\\publisherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4494D6C-77DE-49EF-842E-56D3419C8175}|libreriaXAGFRRR.csproj|solutionrelative:controllers\\publisherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,103 +42,42 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AuthorsController.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\NUEVOP\\libreriaXAGFRRR\\Controllers\\AuthorsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AuthorsController.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\NUEVOP\\libreriaXAGFRRR\\Controllers\\AuthorsController.cs",
-              "RelativeToolTip": "Controllers\\AuthorsController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBAAAAAgAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "PublishersController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\NUEVOP\\libreriaXAGFRRR\\Controllers\\PublishersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PublishersController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\NUEVOP\\libreriaXAGFRRR\\Controllers\\PublishersController.cs",
+              "RelativeToolTip": "Controllers\\PublishersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T06:45:01.117Z",
+              "WhenOpened": "2024-11-16T03:57:28.526Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AuthorsService.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\NUEVOP\\libreriaXAGFRRR\\Data\\Services\\AuthorsService.cs",
-              "RelativeDocumentMoniker": "Data\\Services\\AuthorsService.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\NUEVOP\\libreriaXAGFRRR\\Data\\Services\\AuthorsService.cs",
-              "RelativeToolTip": "Data\\Services\\AuthorsService.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAUwCAAAAAbAAAAAAAAAA==",
+              "Title": "PublishersService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\NUEVOP\\libreriaXAGFRRR\\Data\\Services\\PublishersService.cs",
+              "RelativeDocumentMoniker": "Data\\Services\\PublishersService.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\NUEVOP\\libreriaXAGFRRR\\Data\\Services\\PublishersService.cs",
+              "RelativeToolTip": "Data\\Services\\PublishersService.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAcwCQAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T06:38:51.799Z",
+              "WhenOpened": "2024-11-16T03:43:29.164Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AuthorVM.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\NUEVOP\\libreriaXAGFRRR\\Data\\ViewModels\\AuthorVM.cs",
-              "RelativeDocumentMoniker": "Data\\ViewModels\\AuthorVM.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\NUEVOP\\libreriaXAGFRRR\\Data\\ViewModels\\AuthorVM.cs*",
-              "RelativeToolTip": "Data\\ViewModels\\AuthorVM.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "PublisherVM.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\NUEVOP\\libreriaXAGFRRR\\Data\\ViewModels\\PublisherVM.cs",
+              "RelativeDocumentMoniker": "Data\\ViewModels\\PublisherVM.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\NUEVOP\\libreriaXAGFRRR\\Data\\ViewModels\\PublisherVM.cs",
+              "RelativeToolTip": "Data\\ViewModels\\PublisherVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T06:37:03.709Z",
+              "WhenOpened": "2024-11-16T03:35:32.484Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "BookVM.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\NUEVOP\\libreriaXAGFRRR\\Data\\ViewModels\\BookVM.cs",
-              "RelativeDocumentMoniker": "Data\\ViewModels\\BookVM.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\NUEVOP\\libreriaXAGFRRR\\Data\\ViewModels\\BookVM.cs",
-              "RelativeToolTip": "Data\\ViewModels\\BookVM.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAzwBQAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T05:39:00.772Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Books.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\NUEVOP\\libreriaXAGFRRR\\Data\\Models\\Books.cs",
-              "RelativeDocumentMoniker": "Data\\Models\\Books.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\NUEVOP\\libreriaXAGFRRR\\Data\\Models\\Books.cs",
-              "RelativeToolTip": "Data\\Models\\Books.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAA8wBMAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T05:52:27.322Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BooksController.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\NUEVOP\\libreriaXAGFRRR\\Controllers\\BooksController.cs",
-              "RelativeDocumentMoniker": "Controllers\\BooksController.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\NUEVOP\\libreriaXAGFRRR\\Controllers\\BooksController.cs",
-              "RelativeToolTip": "Controllers\\BooksController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T05:47:36.447Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BooksService.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\NUEVOP\\libreriaXAGFRRR\\Data\\Services\\BooksService.cs",
-              "RelativeDocumentMoniker": "Data\\Services\\BooksService.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\NUEVOP\\libreriaXAGFRRR\\Data\\Services\\BooksService.cs",
-              "RelativeToolTip": "Data\\Services\\BooksService.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAAcwDYAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T05:41:48.073Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AppDbInitializer.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\NUEVOP\\libreriaXAGFRRR\\Data\\AppDbInitializer.cs",
-              "RelativeDocumentMoniker": "Data\\AppDbInitializer.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\NUEVOP\\libreriaXAGFRRR\\Data\\AppDbInitializer.cs",
-              "RelativeToolTip": "Data\\AppDbInitializer.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T05:54:33.978Z"
             }
           ]
         }
